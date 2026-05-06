@@ -8,7 +8,7 @@
 
 ## 📝 Study Notes
 
-- CIA
+- No notes added today.
 
 ---
 
