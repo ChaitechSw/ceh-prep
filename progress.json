@@ -1,21 +1,24 @@
 {
   "currentDay": 1,
   "completedDays": 1,
-  "accuracy": 0,
-  "totalQuizzes": 1,
-  "totalCorrect": 0,
-  "lastUpdated": "2026-05-06T07:05:08.096Z",
+  "accuracy": 75,
+  "totalQuizzes": 4,
+  "totalCorrect": 3,
+  "lastUpdated": "2026-05-06T08:29:53.975Z",
   "domainScores": {
     "Information Security Fundamentals": {
-      "accuracy": 0,
-      "correct": 0,
-      "total": 1,
+      "accuracy": 75,
+      "correct": 3,
+      "total": 4,
       "bankSize": 80
     }
   },
   "notes": {
     "1": [
-      "1. CIA triad"
+      "1. CIA triad",
+      "The attacker is using DNS over HTTPS (DoH) to encrypt DNS queries, making it difficult for security controls to detect the tunneling activity.",
+      "The '-O' option enables Nmap to perform operating system detection, which is the first step in identifying the target system's OS.",
+      "The analyst should create a rule to allow traffic based on the SQL query's pattern, allowing the legitimate traffic to pass through while still protecting against SQL injection attacks."
     ]
   }
 }
