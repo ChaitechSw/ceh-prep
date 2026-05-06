@@ -1,0 +1,21 @@
+{
+  "currentDay": 1,
+  "completedDays": 1,
+  "accuracy": 0,
+  "totalQuizzes": 1,
+  "totalCorrect": 0,
+  "lastUpdated": "2026-05-06T07:05:08.096Z",
+  "domainScores": {
+    "Information Security Fundamentals": {
+      "accuracy": 0,
+      "correct": 0,
+      "total": 1,
+      "bankSize": 80
+    }
+  },
+  "notes": {
+    "1": [
+      "1. CIA triad"
+    ]
+  }
+}
